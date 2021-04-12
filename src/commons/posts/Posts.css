@@ -1,0 +1,14 @@
+.dispNone {
+  display: none;
+}
+.dispBlock {
+  display: block;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-evenly; */
+  align-content: center;
+  margin: 20px 80px;
+}

@@ -1,0 +1,36 @@
+.cards-layout {
+  width: 530px;
+  margin: 20px 10px;
+  height: 0%;
+}
+.posts {
+  margin: 5px 20px;
+}
+
+.likes {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px 0px;
+}
+
+.comments {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.comments-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.control {
+  width: 400px;
+}
+
+.cards-layout {
+  width: 530px;
+  margin: 20px 10px;
+  height: 0%;
+}
